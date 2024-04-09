@@ -5,7 +5,7 @@
   * 結合HTML與CSS做出遊戲畫面,再利用Javascript物件導向概念做出果實、蛇身等物件
   * 遊戲畫面:
     * <img height="400" width="300" src="https://github.com/nickchen111/Greedy_Snake_Game/blob/main/img/%E8%B2%AA%E5%90%83%E8%9B%87.png">
-    * 亦有github page可以實際使用
+    亦有github page可以實際使用
       
   * 技術細節:
     * 需考量果實每次出現地點不能在貪吃蛇身體上 利用 do while迴圈判斷
