@@ -18,7 +18,7 @@
   * Created the game interface using HTML and CSS, then utilized JavaScript's object-oriented concepts to create objects such as fruits and snake body segments.
   * Game Interface:
   * <img height="400" width="300" src="https://github.com/nickchen111/Greedy_Snake_Game/blob/main/img/%E8%B2%AA%E5%90%83%E8%9B%87.png">
-  * You can also use the GitHub page to try it out.
+    You can also use the GitHub page to try it out.
   * Technical Details:
     * Need to consider that fruits cannot appear on the snake's body. Use a do-while loop for checking.
     * Implemented the game interface using canvas.
