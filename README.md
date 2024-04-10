@@ -6,7 +6,8 @@
   * 遊戲畫面:
     
     <img height="400" width="300" src="https://github.com/nickchen111/Greedy_Snake_Game/blob/main/img/%E8%B2%AA%E5%90%83%E8%9B%87.png">
-      
+    
+    可以從github page實際操作
   * 技術細節:
     * 需考量果實每次出現地點不能在貪吃蛇身體上 利用 do while迴圈判斷
     * 利用canvas做出遊戲畫面
@@ -19,7 +20,8 @@
   * Game Interface:
     
     <img height="400" width="300" src="https://github.com/nickchen111/Greedy_Snake_Game/blob/main/img/%E8%B2%AA%E5%90%83%E8%9B%87.png">
-  
+    
+    You can try out the actual operation from the GitHub page.
   * Technical Details:
     * Need to consider that fruits cannot appear on the snake's body. Use a do-while loop for checking.
     * Implemented the game interface using canvas.
